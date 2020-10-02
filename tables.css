@@ -1,42 +1,45 @@
-.titulo{
- background-color = black;
- font-family: Arial;
- color: white;
+.GC_Normal {
+    font-size: 10px;font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: #858495;text-decoration: none;font-weight: bold;
+    text-align: left;vertical-align: top;
 }
 
-table{
- border-spacing = 5px;
+.conteudo_titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #656297;
 }
 
-p {
-    font-family: Verdana, Arial, Helvetica, sans-serif;
-    font-weight: bold
+.fundo_nome_email{
+background-color: yellow;
+border-style: dashed;
 }
 
-.header{
-background-color = grey;
-font-family: Arial;
-font-size: 13px;
-color: white;
+.botao{
+font-family: sans-serif;
+color: blue;
 }
 
-.linha{
-background-color = grey;
-font-family: Verdana;
-font-size: 13px;
-color: #EEEEEE;
+.celula{
+padding: 2px;
+margin: 2px;
+border: 0;}
+
+.fundo_tabela_titulo_esquerdo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #858495;
+    text-align: left;
+    text-indent: 6pt;
 }
 
- .produto1 {
-    color:#FF3300
+.fundo_tabela_titulo_direito {
+    text-decoration: none;
+    background-color: #EEEEEE;
+    text-align: left;
+    vertical-align: bottom;
 }
-
- .produto2 {
-    color:#000099
-}
-
- .produto3 {
-    color:#009900
-}
-
-
